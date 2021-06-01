@@ -1,0 +1,36 @@
+#Whitelist
+/*
+!/.minecraft
+/.minecraft/*
+
+#repo stuff
+!/.github
+!/README.md
+!/icon.png
+!/.gitignore
+
+#configs
+!/.minecraft/config/
+
+/.minecraft/config/jei/worldSettings.cfg
+/.minecraft/config/jei/bookmarks.ini
+/.minecraft/config/vanillafix/methods-stable_39.csv
+/.minecraft/config/journeymap_ModInfo.cfg
+/.minecraft/config/journeymap_server.cfg
+/.minecraft/config/betterfps.json
+/.minecraft/config/blur.cfg
+/.minecraft/config/jei/itemBlacklist.cfg
+/.minecraft/config/splash.properties
+/.minecraft/config/InvTweaks/
+/.minecraft/config/InvTweaks/InvTweaks.cfg
+
+#other stuff
+!/.minecraft/resources
+!/.minecraft/scripts
+
+#pack stuff
+/instance.cfg
+/mmc-pack.json
+!/modlist.html
+!/manifest.json
+!/.minecraft/icon.png
